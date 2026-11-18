@@ -1,3 +1,3 @@
-## MESA Down Under School Website
+## Sydney Spectroscopy Workshop Website
 
-Code repository for the MESA Down Under Website
+Code repository for the Sydney Spectroscopy Workshop Website
